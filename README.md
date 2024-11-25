@@ -12,9 +12,7 @@ To begin development in a containerized environment:
    ![2024-04-24](https://github.com/LCAS/ros2_pkg_template/assets/47870260/2aba3511-7a3f-4e88-a3c1-26ba2be48b45)
 
    Then in the next step specify the owner and the package name as shown below:
-   
-   ![template](https://github.com/LCAS/ros2_pkg_template/assets/47870260/b564c9d7-81d4-4dc1-baba-9355b59d09c1)
-   
+      
 
 3. **Open in Visual Studio Code:**
    Open the cloned repository in VSCode. VSCode will prompt you to "Reopen in Container." Alternatively, you can use the command palette (`Ctrl+Shift+P`) and search for the "reopen in container" command.
